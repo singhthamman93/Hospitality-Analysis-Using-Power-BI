@@ -1,4 +1,4 @@
-# Hospitality Analysis Project - Codebasics Resume Challenge
+# Hospitality Analysis Using Power BI
 
 ## Domain: Hospitality  
 ## Function: Revenue
